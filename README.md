@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Mayur Singh 👋</h1>
+<h1 align="center">Hey there, I'm Mayur Singh Shekhawat 👋</h1>
 <p align="center">
   🚀 Full Stack Developer | MERN Stack | Problem Solver
 </p>
@@ -17,19 +17,43 @@
 ## 🧰 Tech Stack
 
 <p align="center">
+  <!-- React -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+
+  <!-- Node.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+
+  <!-- Express -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" />
+
+  <!-- MongoDB -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
+
+  <!-- JavaScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/clerkdev/clerkdev-icon.svg" height="40" />
+
+  <!-- Clerk -->
+  <img src="https://seeklogo.com/images/C/clerk-logo-5E5C56C1C2-seeklogo.com.png" height="40" />
+
+  <!-- Cloudinary -->
   <img src="https://res.cloudinary.com/cloudinary-marketing/image/upload/v1688381716/Brand%20Assets/Logos/Cloudinary/Logo/Cloudinary_icon_blue.svg" height="40" />
+
+  <!-- Tailwind CSS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" />
+
+  <!-- Bootstrap -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" />
+
+  <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+
+  <!-- GitHub -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
+
+  <!-- VS Code -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
 </p>
+
 
 
 
