@@ -16,7 +16,7 @@
 
 ## 🧰 Tech Stack
 
-<p align="center">
+<p align="center" background-color: white>
   <!-- React -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
 
