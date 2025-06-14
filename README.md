@@ -32,23 +32,9 @@
   <!-- JavaScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
 
-  <!-- Clerk OLD -->
-  <img src="https://seeklogo.com/images/C/clerk-logo-5E5C56C1C2-seeklogo.com.png" height="40" alt="Clerk Old" />
-
-  <!-- Clerk NEW -->
-  <img src="https://avatars.githubusercontent.com/u/60844138?s=200&v=4" height="40" alt="Clerk New" />
-
-  <!-- Cloudinary OLD -->
-  <img src="https://api.logo.com/cloudinary.png" height="40" alt="Cloudinary Old" />
-
-  <!-- Cloudinary NEW -->
-  <img src="https://res.cloudinary.com/cloudinary-marketing/image/upload/v1688381716/Brand%20Assets/Logos/Cloudinary/Logo/Cloudinary_icon_blue.svg" height="40" alt="Cloudinary New" />
-
-  <!-- Tailwind OLD -->
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="Tailwind Old" />
-
-  <!-- Tailwind NEW -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind New" />
+  <img src="https://img.shields.io/badge/Clerk-F02E65?style=for-the-badge&logo=clerk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 
   <!-- Firebase NEW -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
