@@ -32,14 +32,27 @@
   <!-- JavaScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
 
-  <!-- Clerk (custom source) -->
-  <img src="https://avatars.githubusercontent.com/u/60844138?s=200&v=4" height="40" alt="Clerk" />
+  <!-- Clerk OLD -->
+  <img src="https://seeklogo.com/images/C/clerk-logo-5E5C56C1C2-seeklogo.com.png" height="40" alt="Clerk Old" />
 
-  <!-- Cloudinary (official) -->
-  <img src="https://res.cloudinary.com/cloudinary-marketing/image/upload/v1688381716/Brand%20Assets/Logos/Cloudinary/Logo/Cloudinary_icon_blue.svg" height="40" alt="Cloudinary" />
+  <!-- Clerk NEW -->
+  <img src="https://avatars.githubusercontent.com/u/60844138?s=200&v=4" height="40" alt="Clerk New" />
 
-  <!-- Tailwind CSS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS" />
+  <!-- Cloudinary OLD -->
+  <img src="https://api.logo.com/cloudinary.png" height="40" alt="Cloudinary Old" />
+
+  <!-- Cloudinary NEW -->
+  <img src="https://res.cloudinary.com/cloudinary-marketing/image/upload/v1688381716/Brand%20Assets/Logos/Cloudinary/Logo/Cloudinary_icon_blue.svg" height="40" alt="Cloudinary New" />
+
+  <!-- Tailwind OLD -->
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="Tailwind Old" />
+
+  <!-- Tailwind NEW -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind New" />
+
+  <!-- Firebase NEW -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
+
 
   <!-- Bootstrap -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
