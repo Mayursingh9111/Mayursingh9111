@@ -60,13 +60,13 @@
 
 ## 🔥 My Projects
 
-### 🏨 [Hotel Booking Website – Home Stay](https://github.com/Mayursingh9111/hotel-booking)
+### 🏨 [Hotel Booking Website – Home Stay](https://github.com/Mayursingh9111/Home-Stay)
 > A full-featured booking platform with user roles, authentication, and Cloudinary image handling.  
 🌐 Live: [home-stay-112001.netlify.app](https://home-stay-112001.netlify.app/)
 
 ---
 
-### 💼 [Job Portal Website – IndsiderJobs](https://github.com/Mayursingh9111/job-portal)
+### 💼 [Job Portal Website – IndsiderJobs](https://github.com/Mayursingh9111/Job-Portal)
 > A role-based job application platform with recruiter/admin access, resume uploads, and job status tracking.  
 🌐 Live: [job-portal-0007.netlify.app](https://job-portal-0007.netlify.app/)
 
