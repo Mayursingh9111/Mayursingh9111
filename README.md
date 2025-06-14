@@ -16,7 +16,7 @@
 
 ## 🧰 Tech Stack
 
-<p align="center" background-color: white>
+<p align="center" style="background-color: white; padding: 10px; border-radius: 8px;">
   <!-- React -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
 
