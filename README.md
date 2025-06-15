@@ -81,9 +81,11 @@
 
 ---
 ## 📊 LeetCode Stats
+
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Mayur9111?theme=dark&font=Karma&ext=contest" />
 </p>
+
 ---
 ## 📫 Let's Connect
 
