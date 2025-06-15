@@ -78,7 +78,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Mayursingh9111&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayursingh9111&layout=compact&theme=tokyonight" />
 </p>
-
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Mayursingh9111?theme=dark&font=Karma&ext=contest" />
+</p>
 ---
 
 ## 📫 Let's Connect
