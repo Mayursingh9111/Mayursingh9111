@@ -4,7 +4,7 @@
 </p>
 <p align="center">
   <a href="./Resume_0.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20Resume-PDF-informational?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&color=FF0000" />
+    <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Download Resume" />
   </a>
 </p>
 
