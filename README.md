@@ -1,6 +1,8 @@
 <h1 align="center">Hey there, I'm Mayur Singh Shekhawat 👋</h1>
 <p align="center">
   🚀 Full Stack Developer | MERN Stack | Problem Solver
+  📄 [Download My Resume](./Resume_01.pdf)
+
 </p>
 
 ---
