@@ -3,8 +3,11 @@
   🚀 Full Stack Developer | MERN Stack | Problem Solver
 </p>
 <p align="center">
-  📄 [Download My Resume](./Resume_0.pdf)
+  <a href="./Resume_0.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20Resume-PDF-informational?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&color=FF0000" />
+  </a>
 </p>
+
 ---
 
 ## 🚀 About Me
